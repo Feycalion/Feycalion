@@ -1,5 +1,6 @@
 <h1 align="center">Hi, I'm Anja :star2:</h1>
 <h3 align="center">A frontend developer from Norway</h3>
+<h4 align="center">Currently studying frontend development at Noroff</h4>
 
 <div id="header" align="center">
   
